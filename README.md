@@ -1,5 +1,5 @@
-# Paradigmas-TP2-IgnacioMilone-ExequielAlaniz-RamiroFernandez
-TP1 De la materia paradigmas de programacion hecho por los alumnos de Ingenieria En Sistemas
+# Paradigmas-TP3-IgnacioMilone-ExequielAlaniz-RamiroFernandez
+TP3 De la materia paradigmas de programacion hecho por los alumnos de Ingenieria En Sistemas
 - Exequiel Alaniz
 - Ignacio Milone
 - Ramiro Fernandez
